@@ -9,6 +9,6 @@ export const metadata: Metadata = {
 
 export default function Scalability() {
   return (
-    <Hero imgurl={logo} altText="Scalability" content="Scalability" />
+    <Hero imgurl={logo} altText="Scalability" content="Scalability page for the company " />
   )
 }
